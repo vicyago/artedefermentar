@@ -18,7 +18,7 @@ body {
 #main {
     display: flex;
     min-height: calc(100vh - 40vh);
-    background: #ff8a5b;
+    background: #ffffff;
 }
 #main > article {
     flex: 1;
@@ -26,7 +26,6 @@ body {
 #main > nav,
 #main > aside {
     flex: 0 0 20vw;
-    background: #f5cf55;
 }
 #main > nav {
     order: -1;
