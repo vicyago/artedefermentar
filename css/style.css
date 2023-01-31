@@ -30,9 +30,7 @@ body {
 #main > nav {
     order: -1;
 }
-article,
-nav,
-aside {
+article {
     padding: 1em;
 }
 header,
