@@ -15,6 +15,7 @@
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
     margin: 10px;
     background-color: white;
+    padding-top: 1%;
     padding-bottom: 1%;
 }
 
@@ -39,12 +40,12 @@
     font-size: 1.125rem;
     font-weight: bold;
     margin: 10px 0;
-    color: orange;
+    color: #357960;
 }
 
 .add-to-cart-button {
     padding: 10px 20px;
-    background-color: orange;
+    background-color: #357960;
     border: none;
     border-radius: 5px;
     color: white;
@@ -53,7 +54,7 @@
 }
 
 .add-to-cart-button:hover {
-    background-color: darkorange;
+    background-color: #92A144;
 }
 
 .product-grid {
@@ -63,12 +64,12 @@
 }
 .original-price {
     text-decoration: line-through;
-    color: lightgray;
+    color: #003E29;
     font-size: 0.875rem;
 }
 
 .discount-price {
-    color: orange;
+    color: #357960;
     font-size: 1.125rem;
     font-weight: bold;
 }

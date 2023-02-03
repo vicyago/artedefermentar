@@ -2,12 +2,10 @@
     height: 100%;
     width: 100%;
     background-color: #bdeca965;
-    position: relative;
+    position: relative;    
 }
 
 .nav img {
-    margin-top: 5%;
-    margin-left: 5%;
     width: 90%;
 }
 
@@ -28,12 +26,12 @@
 .nav > .nav-links {
     display: inline;
     float: right;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 .nav > .nav-links > a {
     display: inline-block;
-    padding: 1.5em;
+    padding: 2em;
     text-decoration: none;
     color: #000000;
 }
